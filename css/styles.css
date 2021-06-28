@@ -1,10 +1,13 @@
 body
 {
   font-size: 40pt;
-  background-color:Blue;
+  background-color:Black;
 }
 
 h1{
-  color:Red;
+  color:Yellow;
 }
 
+p{
+  color:White;
+}
